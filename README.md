@@ -1,5 +1,9 @@
 ### Welcome to Front-End Developer Github!!  👋
 
+저는 신입 프론트엔드 개발자 입니다. 
+혹시 저에대해 궁금하신가요?? 제가 궁금하시다면! 
+https://www.naver.com <-을 확인해주세요 :D
+
 <!--
 **hansolbangul/hansolbangul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
