@@ -30,7 +30,8 @@
     <img src="https://img.shields.io/badge/React-007396?style=for-the-badge&logo=React&logoColor=#61DAFB"> 
     <img src="https://img.shields.io/badge/Node-6DB33F?style=for-the-badge&logo=Node.js&logoColor=#339933">
     <img src="https://img.shields.io/badge/Vue-6DB33F?style=for-the-badge&logo=Vue.js&logoColor=#4FC08D">
-    <img src="https://img.shields.io/badge/ReactNative-007396?style=for-the-badge&logo=React&logoColor=#61DAFB"> 
+    <img src="https://img.shields.io/badge/ReactNative-007396?style=for-the-badge&logo=React&logoColor=#61DAFB">
+    <br>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=#4479A1">
     <img src="https://img.shields.io/badge/TypeScript-232F3E?style=for-the-badge&logo=TypeScript&logoColor=#3178C6"> 
     <img src="https://img.shields.io/badge/JavaScript-232F3E?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"> 
