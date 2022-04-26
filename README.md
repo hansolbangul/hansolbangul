@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansolbangul&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansolbangul&show_icons=true&theme=swift)
 
 저는 신입🌱  프론트엔드 개발자 입니다. (21.07.01 입사)
 
