@@ -27,13 +27,13 @@
 </p>
 
 <p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/React-007396?style=for-the-badge&logo=React&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Node-6DB33F?style=for-the-badge&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Vue-6DB33F?style=for-the-badge&logo=Vue.js&logoColor=white">
-    <img src="https://img.shields.io/badge/ReactNative-007396?style=for-the-badge&logo=React&logoColor=white"> 
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/TypeScript-232F3E?style=for-the-badge&logo=TypeScript&logoColor=white"> 
-    <img src="https://img.shields.io/badge/JavaScript-232F3E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
+    <img src="https://img.shields.io/badge/React-007396?style=for-the-badge&logo=React&logoColor=#61DAFB"> 
+    <img src="https://img.shields.io/badge/Node-6DB33F?style=for-the-badge&logo=Node.js&logoColor=#339933">
+    <img src="https://img.shields.io/badge/Vue-6DB33F?style=for-the-badge&logo=Vue.js&logoColor=#4FC08D">
+    <img src="https://img.shields.io/badge/ReactNative-007396?style=for-the-badge&logo=React&logoColor=#61DAFB"> 
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=#4479A1">
+    <img src="https://img.shields.io/badge/TypeScript-232F3E?style=for-the-badge&logo=TypeScript&logoColor=#3178C6"> 
+    <img src="https://img.shields.io/badge/JavaScript-232F3E?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"> 
 </p><br>
 
 <br>
@@ -43,11 +43,11 @@
 </p>
 
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/React-query-007396?style=for-the-badge&logo=React Query&logoColor=white"> 
-    <img src="https://img.shields.io/badge/CSS3-6DB33F?style=for-the-badge&logo=CSS3&logoColor=white">
-    <img src="https://img.shields.io/badge/recoil-6DB33F?style=for-the-badge&logo=Coil&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-4479A1?style=for-the-badge&logo=MongoDB&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> 
+  <img src="https://img.shields.io/badge/React-query-007396?style=for-the-badge&logo=React Query&logoColor=#FF4154"> 
+    <img src="https://img.shields.io/badge/CSS3-6DB33F?style=for-the-badge&logo=CSS3&logoColor=#1572B6">
+    <img src="https://img.shields.io/badge/recoil-6DB33F?style=for-the-badge&logo=Coil&logoColor=#000000">
+    <img src="https://img.shields.io/badge/MongoDB-4479A1?style=for-the-badge&logo=MongoDB&logoColor=#47A248">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=#232F3E"> 
 </p><br>
 
 <br>
@@ -57,9 +57,9 @@
 </p>
 
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/Bitcoin-007396?style=for-the-badge&logo=Bitcoin&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Ethereum-6DB33F?style=for-the-badge&logo=Ethereum&logoColor=white">
-    <img src="https://img.shields.io/badge/Chainlink-6DB33F?style=for-the-badge&logo=Chainlink&logoColor=white">
+  <img src="https://img.shields.io/badge/Bitcoin-007396?style=for-the-badge&logo=Bitcoin&logoColor=#F7931A"> 
+    <img src="https://img.shields.io/badge/Ethereum-6DB33F?style=for-the-badge&logo=Ethereum&logoColor=#3C3C3D">
+    <img src="https://img.shields.io/badge/Chainlink-6DB33F?style=for-the-badge&logo=Chainlink&logoColor=#375BD2">
 </p><br>
 
 <div align=center>
