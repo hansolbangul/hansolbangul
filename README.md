@@ -44,7 +44,7 @@
 </p>
 
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/React-query-007396?style=for-the-badge&logo=React Query&logoColor=#FF4154"> 
+  <img src="https://img.shields.io/badge/Reactquery-007396?style=for-the-badge&logo=React Query&logoColor=#FF4154"> 
     <img src="https://img.shields.io/badge/CSS3-6DB33F?style=for-the-badge&logo=CSS3&logoColor=#1572B6">
     <img src="https://img.shields.io/badge/recoil-6DB33F?style=for-the-badge&logo=Coil&logoColor=#000000">
     <img src="https://img.shields.io/badge/MongoDB-4479A1?style=for-the-badge&logo=MongoDB&logoColor=#47A248">
