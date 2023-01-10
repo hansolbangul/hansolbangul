@@ -1,86 +1,64 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hansolbangul%20GitHub&descAlignY=51&descAlign=62)
+### **Hi, I'm hansolbangul** <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30" />
+> 안녕하세요, `프론트엔드 개발자` 지한솔입니다. 저는,  
+- "Javascript와 React, Typescript에 관심이 많습니다."
+- “React-query와 Recoil을 주로 사용합니다.”
+- “프론트 서버 관리부터 배포까지 하는것을 좋아합니다.”
+- “Recoil + suspense을 통한 우아한 비동기 개발을 좋아합니다.”
+- “끊임없이 배우는 것을 좋아합니다.”
 
-<br>
+### 🕝 My Timeline
 
-<p align="center">
-    <Strong>☁️SNS list☁️</Strong><br><br>
-    <a href="https://hansolbangul.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
-    <a href="https://www.instagram.com/_oneso1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-    <br>
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhansolbangul%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<br><br>
-<Strong>📧Contect Me📧</Strong><br>ruaenddl981028@naver.com<br>
-</p>
+> *My experences, careers, etc.*
+- **SKU** &nbsp; `2017.03 ~ `
+  > 성결대학교 `컴퓨터공학과`
+  
+- **Farmos** &nbsp; `2021.07 ~ 2022.06`
+  > `풀스택` 개발자   
+  > **React**, **Vue**, **Node** 를 주로 사용하였습니다.   
+  > 저의 작업물입니다. [`홈페이지`](https://farmos.co.kr), [`FJbox`](http://fjbox.farmos.co.kr), [`FJbox-DP`](http://fjbox.farmos.co.kr:8082)
+  
+- **Aimed** &nbsp; `2022.06 ~ `
+  > `프론트엔드` 개발자   
+  > **React**, **Vue** 를 주로 사용합니다.    
+  > **피리부는 강아지**의 웹앱 **피리마켓**을 개발합니다. 
+<br/>
 
-<br>
+<!-- ## 📝 Blog
+<a href="https://velog.io/@rhkswls98"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a> -->
 
-<p align="center">
-안녕하세요!!<br>
-저는 지한솔입니다 :D<br>
-현재 프론트엔드 개발자로 근무하고 있습니다.<br>
-</p>
 
-<br>
+### 🛠 Tech stack 
 
-<p align="center">
-    <Strong>❤️ Main Tech Stack ❤️</Strong><br>
-</p>
+> *Languages or frameworks that I used at least once*
+<div align="center">
+  <img src="https://img.shields.io/badge/Javascript-6a707a?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=F7DF1E"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Typescript-6a707a?style=for-the-badge&logo=Typescript&logoColor=white&labelColor=3178C6"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML5-6a707a?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS3-6a707a?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6"/></a>&nbsp 
+  <br/>
+  <img src="https://img.shields.io/badge/Three.js-6a707a?style=for-the-badge&logo=Three.js&logoColor=white&labelColor=3178C6"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Node.js-6a707a?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=339933"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Recoil-6a707a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iQ2FscXVlXzEiIGRhdGEtbmFtZT0iQ2FscXVlIDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI1NS4yMSA2MjMuOTEiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDp3aGl0ZX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Im03NC42MiAyNzcuNDYgMS4yNC0uMTMgMzQuNzgtMy4yOC01My40Ny01OC42NkE5Ni40NyA5Ni40NyAwIDAgMSAzMiAxNTAuM0gzYTEyNS4zIDEyNS4zIDAgMCAwIDMyLjggODQuNTdaTTE3Ny4xMyAzNDdsLTM2IDMuNCA1My4zMiA1OC41MUE5Ni40MSA5Ni40MSAwIDAgMSAyMTkuNjMgNDc0aDI4LjkyYTEyNS4yOCAxMjUuMjggMCAwIDAtMzIuNzYtODQuNTdaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMjUzLjY5IDIzMS42OGMtNi4zMy0zMS4zLTMwLjg5LTU0LjA5LTYyLjU3LTU4LjA3bC02LjM1LS43OWE0OS42MSA0OS42MSAwIDAgMS00My4zNS00OS4xM3YtMjBhNTIuNzUgNTIuNzUgMCAxIDAtMjguOTEtLjM2djIwLjM4YTc4LjU2IDc4LjU2IDAgMCAwIDY4LjY1IDc3LjgybDYuMzYuOGMyMy4yNCAyLjkyIDM0Ljc4IDIwIDM3LjgzIDM1LjFzLS45MyAzNS4zMi0yMS4yMiA0N2E3My44MSA3My44MSAwIDAgMS0zMC4wNiA5LjYybC05NS42NiA5YTEwMi40NSAxMDIuNDUgMCAwIDAtNDEuOCAxMy4zOEM5IDMzMi40NS00LjgxIDM2MyAxLjUyIDM5NC4yOXMzMC44OSA1NC4wOCA2Mi41NyA1OC4wNmw2LjM1LjhhNDkuNiA0OS42IDAgMCAxIDQzLjM1IDQ5LjEydjE4YTUyLjc1IDUyLjc1IDAgMSAwIDI4LjkxLjI2di0xOC4yNmE3OC41NSA3OC41NSAwIDAgMC02OC42NS03Ny44MWwtNi4zNi0uOGMtMjMuMjQtMi45Mi0zNC43OC0yMC4wNS0zNy44My0zNS4xMXMuOTMtMzUuMzIgMjEuMjItNDdhNzMuNjggNzMuNjggMCAwIDEgMzAuMDYtOS42M2w5NS42Ni05YTEwMi40NSAxMDIuNDUgMCAwIDAgNDEuOC0xMy4zOGMyNy42NS0xNi4wMiA0MS40LTQ2LjU0IDM1LjA5LTc3Ljg2WiIvPjwvc3ZnPg==&logoColor=white&labelColor=black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-6a707a?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React_Native-6a707a?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB"/></a>&nbsp
+</div>
 
-<p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/React-007396?style=for-the-badge&logo=React&logoColor=#61DAFB"> 
-    <img src="https://img.shields.io/badge/Node-6DB33F?style=for-the-badge&logo=Node.js&logoColor=#339933">
-    <img src="https://img.shields.io/badge/Vue-6DB33F?style=for-the-badge&logo=Vue.js&logoColor=#4FC08D">
-    <img src="https://img.shields.io/badge/ReactNative-007396?style=for-the-badge&logo=React&logoColor=#61DAFB">
-    <br>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=#4479A1">
-    <img src="https://img.shields.io/badge/TypeScript-232F3E?style=for-the-badge&logo=TypeScript&logoColor=#3178C6"> 
-    <img src="https://img.shields.io/badge/JavaScript-232F3E?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"> 
-</p><br>
+<br/>
 
-<br>
 
-<p align="center">
-    <Strong>🤍 use 🤍</Strong><br>
-</p>
+### 🐾 Activity
+> [2023.01 ~ 2023.03] Central MakeUs Challenge [CMC] IT 연합 동아리 12기 **웹** 파트 개발자   
 
-<p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/Reactquery-007396?style=for-the-badge&logo=React Query&logoColor=#FF4154"> 
-    <img src="https://img.shields.io/badge/CSS3-6DB33F?style=for-the-badge&logo=CSS3&logoColor=#1572B6">
-    <img src="https://img.shields.io/badge/recoil-6DB33F?style=for-the-badge&logo=Coil&logoColor=#000000">
-    <img src="https://img.shields.io/badge/MongoDB-4479A1?style=for-the-badge&logo=MongoDB&logoColor=#47A248">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=#232F3E"> 
-</p><br>
+### 📈 my github stats
 
-<br>
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hankwanjin&show_icons=true&theme=gotham" alt="hankwanjin" /> -->
 
-<p align="center">
-    <Strong>🖤 I Love 🖤</Strong><br>
-</p>
+<div align = "center">
 
-<p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/Bitcoin-007396?style=for-the-badge&logo=Bitcoin&logoColor=#F7931A"> 
-    <img src="https://img.shields.io/badge/Ethereum-6DB33F?style=for-the-badge&logo=Ethereum&logoColor=#3C3C3D">
-    <img src="https://img.shields.io/badge/Chainlink-6DB33F?style=for-the-badge&logo=Chainlink&logoColor=#375BD2">
-</p><br>
-
-<div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansolbangul&show_icons=true&theme=dark)
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hankwanjin&layout=compact&theme=tokyonight)&nbsp;&nbsp;&nbsp; -->
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhkswls98)](https://solved.ac/rhkswls98) -->
 
-
-<!--
-**hansolbangul/hansolbangul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-👋
--->
+</div>
