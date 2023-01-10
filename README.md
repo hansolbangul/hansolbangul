@@ -1,4 +1,8 @@
 ### **Hi, I'm hansolbangul** <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30" />
+  <a href="https://hansolbangul.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_oneso1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <br>
+
 > 안녕하세요, `프론트엔드 개발자` 지한솔입니다. 저는,  
 - "Javascript와 React, Typescript에 관심이 많습니다."
 - “React-query와 Recoil을 주로 사용합니다.”
