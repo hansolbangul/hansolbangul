@@ -34,7 +34,7 @@
 ### 🛠 Tech stack 
 
 > *Languages or frameworks that I used at least once*
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Javascript-6a707a?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=F7DF1E"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Typescript-6a707a?style=for-the-badge&logo=Typescript&logoColor=white&labelColor=3178C6"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-6a707a?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26"/></a>&nbsp 
@@ -57,7 +57,7 @@
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hankwanjin&show_icons=true&theme=gotham" alt="hankwanjin" /> -->
 
-<div align = "center">
+<div >
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansolbangul&show_icons=true&theme=dark)
