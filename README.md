@@ -4,28 +4,12 @@
   <br>
 
 > 안녕하세요, `프론트엔드 개발자` 지한솔입니다. 저는,  
-- "Javascript와 React, Typescript에 관심이 많습니다."
+- "Javascript와 Typescript에 관심이 많습니다."
+- "Next와 React를 좋아합니다."
 - “React-query와 Recoil을 주로 사용합니다.”
 - “프론트 서버 관리부터 배포까지 하는것을 좋아합니다.”
 - “Recoil + suspense을 통한 우아한 비동기 개발을 좋아합니다.”
 - “끊임없이 배우는 것을 좋아합니다.”
-
-### 🕝 My Timeline
-
-> *My experences, careers, etc.*
-- **SKU** &nbsp; `2017.03 ~ `
-  > 성결대학교 `컴퓨터공학과`
-  
-- **Farmos** &nbsp; `2021.07 ~ 2022.06`
-  > `풀스택` 개발자   
-  > **React**, **Vue**, **Node** 를 주로 사용하였습니다.   
-  > 저의 작업물입니다. [`홈페이지`](https://farmos.co.kr), [`FJbox`](http://fjbox.farmos.co.kr), [`FJbox-DP`](http://fjbox.farmos.co.kr:8082)
-  
-- **Aimed** &nbsp; `2022.06 ~ `
-  > `프론트엔드` 개발자   
-  > **React**, **Vue** 를 주로 사용합니다.    
-  > **피리부는 강아지**의 웹앱 **피리마켓**을 개발합니다. 
-<br/>
 
 <!-- ## 📝 Blog
 <a href="https://velog.io/@rhkswls98"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a> -->
