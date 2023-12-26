@@ -6,9 +6,9 @@
 > 안녕하세요, `프론트엔드 개발자` 지한솔입니다. 저는,  
 - "Javascript와 Typescript에 관심이 많습니다."
 - "Next와 React를 좋아합니다."
-- “React-query와 Recoil을 주로 사용합니다.”
+- “React-query와 Zustand, Recoil 을 주로 사용합니다.”
 - “프론트 서버 관리부터 배포까지 하는것을 좋아합니다.”
-- “Recoil + suspense을 통한 우아한 비동기 개발을 좋아합니다.”
+- “React-Query + Suspense을 통한 우아한 비동기 개발을 좋아합니다.”
 - “끊임없이 배우는 것을 좋아합니다.”
 
 <!-- ## 📝 Blog
