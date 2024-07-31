@@ -1,5 +1,5 @@
 ### **Hi, I'm hansolbangul** <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30" />
-  <a href="https://bangul-log.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
+  <a href="https://blog.hansolbangul.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
   <a href="https://www.instagram.com/_oneso1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <br>
 
